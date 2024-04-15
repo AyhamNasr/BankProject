@@ -1,0 +1,70 @@
+﻿  NewBankProject.cpp
+C:\Users\AyhamPC\source\repos\NewBankProject\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsUtility.h(63,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(246,19): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferData' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'NewBankProject.cpp')
+  C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(24,12):
+  see declaration of 'clsBankClient::stTransferData'
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(255,6): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferData' when no variable is declared
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(74,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(446,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(459,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsUser.h(172,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginData' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'NewBankProject.cpp')
+  C:\Users\AyhamPC\source\repos\NewBankProject\clsUser.h(129,9):
+  see declaration of 'clsUser::stLoginData'
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsAddClientScreen.h(32,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsUpdateClientScreen.h(30,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsClientBalances.h(51,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsTransferScreen.h(42,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsUpdateCurrencyRate.h(53,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsCurrencyCalculator.h(64,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'NewBankProject.cpp')
+  
+C:\Users\AyhamPC\source\repos\NewBankProject\clsLoginScreen.h(76,1): warning C4715: 'clsLoginScreen::ShowLoginScreen': not all control paths return a value
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(401,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\AyhamPC\source\repos\NewBankProject\clsBankClient.h(463,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\AyhamPC\source\repos\NewBankProject\clsUser.h(311,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  NewBankProject.vcxproj -> C:\Users\AyhamPC\source\repos\NewBankProject\x64\Debug\NewBankProject.exe
